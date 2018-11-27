@@ -45,9 +45,10 @@ assert raw_data['improved'].max() == 1 and raw_data['improved'].min() == 0
 assert len(raw_data['improved']) == 395
 
 # Remove missing target variable entries
-cleaned_data = raw_data[~raw_data['G3'] == 0]
+cleaned_data = raw_data[~(raw_data['G3']==0)]
 
-assert 0 not in cleaned_data['G3']
+assert 0 not in cleaned_data['G3'].values
+assert len(cleaned_data) == (395 - len(raw_data[raw_data['G3']==0]))
 
 # export cleaned data to directory
 cleaned_data.to_csv('cleaned-data.csv')
