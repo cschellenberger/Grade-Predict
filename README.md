@@ -8,6 +8,6 @@ Through data wrangling, feature engineering, and regression analysis, this proje
 
 - [Project Summary](https://github.com/cschellenberger/Grade-Predict/blob/master/Grade%20Predictor%20and%20Intervention%20Suggestion.pdf)
 
-- [Project Presentation]()
+- [Project Presentation](https://github.com/cschellenberger/Grade-Predict/blob/master/Grade%20Prediction%20and%20Intervention%20Project.pdf)
 
 - [Raw Data]()
