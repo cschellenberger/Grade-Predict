@@ -10,4 +10,4 @@ Through data wrangling, feature engineering, and regression analysis, this proje
 
 - [Project Presentation](https://github.com/cschellenberger/Grade-Predict/blob/master/Grade%20Prediction%20and%20Intervention%20Project.pdf)
 
-- [Raw Data]()
+- [Raw Data](https://github.com/cschellenberger/Grade-Predict/blob/master/exploration/raw_data/student-mat.csv)
