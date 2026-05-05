@@ -44,7 +44,7 @@ Send2Trash==1.5.0
 six==1.11.0
 terminado==0.8.1
 testpath==0.4.2
-tornado==5.6.6
+tornado==6.5.5
 traitlets==4.3.2
 watermark==1.7.0
 wcwidth==0.1.7
